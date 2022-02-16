@@ -2,6 +2,7 @@
 
 ## Data Collection and Curation 
 **Goal of the project:**
+
 The aim of this data analysis is to compare how the ratings of audience members differ between the films showing in theaters in February 2022 and between different movie theaters around Austin, Texas. The data for this analysis was collected by interviewing audiences after different film screenings across different movie theaters. The data collection was carried out from February 10th-13th, so the films represent those in theathers during these dates. 
 
 **Description of each Attribute:**
@@ -30,6 +31,7 @@ Age: Describes the age of the audience participant interviewed. Data here is nom
 Gender: Describes the gender identification of participants (who were asked). Data here is nominal and collected with the purpose of gathering demographic data.
 
 **Licence:**
+
 Data is original data and did not require use of an API. 
 
 **Potential Issues:**
