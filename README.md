@@ -32,6 +32,7 @@ Gender: Describes the gender identification of participants (who were asked). Da
 **Licence:**
 Data is original data and did not require use of an API. 
 
-**Potential Issues**
+**Potential Issues:**
+
 An important factor to consider is the fact that there is an insufficient number of data point (or people interviewed). Data on the small scale, such as the one presented for the purposes of this project, may not be accurate compared to data gathered at a larger scale and over a longer period of time. That said, the assumptions about audiences in the different movie theaters or the conclusions about audience reactions (based on the sample's ratings) may be erroneous if analyzed with more information. 
 It should also be noted that there is potential bias in the data collection, which stems from the people who were chosen to participate. Not all audience members were interviewed after each screening. The selection was random and opportunity based. 
